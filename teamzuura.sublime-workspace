@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"asser",
+				"assertTrue"
+			],
+			[
+				"or",
+				"original_phone"
+			],
+			[
+				"preg_m",
+				"preg_match_all"
+			],
+			[
+				"off",
+				"offence"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"creep",
+				"creep_id"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"offe",
+				"offences"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"Cr",
+				"CREEP"
+			],
+			[
+				"number",
+				"numbers_only"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"oau",
+				"oauthId"
+			],
+			[
+				"oaut",
+				"oauthIdProperty"
+			],
+			[
+				"pic",
+				"pictureResult"
+			],
+			[
+				"var_",
+				"var_export"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"af",
+				"afterConnect"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/teamzuura/public/css/carousel.css",
+		"/var/www/teamzuura/public/index.php",
+		"/var/www/creepz/app/tests/CreepTest.php",
+		"/var/www/creepz/app/models/Creep.php",
+		"/var/www/creepz/vendor/laravelbook/ardent/src/LaravelBook/Ardent/Ardent.php",
+		"/var/www/creepz/app/database/migrations/2014_01_21_151850_create_redemption_table.php",
+		"/var/www/creepz/app/database/migrations/2014_01_17_180045_create_creeps_table.php",
+		"/var/www/creepz/app/database/migrations/2014_01_17_181234_create_creep_offence_table.php",
+		"/var/www/creepz/app/controllers/CreepsController.php",
+		"/var/www/creepz/public/packages/home/js/validate-phone.js",
+		"/var/www/creepz/app/views/add-creep.blade.php",
+		"/var/www/creepz/app/views/creep-alert.blade.php",
+		"/var/www/creepz/app/views/hello.blade.php",
+		"/var/www/creepz/public/packages/home/css/home.css",
+		"/var/www/creepz/app/views/layouts/main.blade.php",
+		"/var/www/creepz/app/database/seeds/OffenceTableSeeder.php",
+		"/var/www/creepz/app/routes.php",
+		"/var/www/creepz/app/database/seeds/DatabaseSeeder.php",
+		"/var/www/creepz/app/models/Offence.php",
+		"/var/www/creepz/app/database/migrations/2014_01_17_181002_create_offences_table.php",
+		"/var/www/creepz/app/config/app.php",
+		"/var/www/creepz/app/config/database.php",
+		"/var/www/creepz/app/controllers/HomeController.php",
+		"/var/www/creepz/app/views/hello-head.blade.php",
+		"/var/www/fatboy/app/controllers/UsersController.php",
+		"/var/www/fatboy/app/views/signup/after-connect.blade.php",
+		"/var/www/fatboy/public/packages/signup/css/after-connect.css",
+		"/var/www/fatboy/app/views/signup/after-connect-head.blade.php",
+		"/var/www/fatboy/app/config/packages/artdarek/oauth-4-laravel/config.php",
+		"/var/www/fatboy/app/models/User.php",
+		"/var/www/fatboy/app/database/migrations/2014_01_10_203933_create_users_table.php",
+		"/var/www/fatboy/app/views/kitchen/private.blade.php",
+		"/var/www/fatboy/app/views/layouts/main.blade.php",
+		"/var/www/fatboy/app/controllers/KitchenController.php",
+		"/var/www/fatboy/app/config/auth.php",
+		"/var/www/fatboy/app/routes.php",
+		"/var/www/fatboy/app/views/kitchen/public.blade.php",
+		"/var/www/fatboy/app/models/IngredientInterface.php",
+		"/home/amrith92/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/fatboy/app/config/session.php",
+		"/var/www/fatboy/app/controllers/HomeController.php",
+		"/var/www/fatboy/app/views/home/index-head.blade.php",
+		"/var/www/fatboy/app/config/app.php",
+		"/var/www/fatboy/app/views/signup/signup-form.blade.php",
+		"/var/www/fatboy/public/packages/kitchen/css/kitchen.css",
+		"/var/www/fatboy/composer.json",
+		"/var/www/fatboy/public/packages/signup/js/form/form.js",
+		"/var/www/fatboy/public/packages/signup/js/main.js",
+		"/var/www/fatboy/app/lib/Fatboy/Storage/User/UserRepository.php",
+		"/var/www/fatboy/public/css/alerts.css",
+		"/var/www/fatboy/app/lib/Fatboy/Storage/User/EloquentUserRepository.php",
+		"/var/www/fatboy/app/lib/Fatboy/Storage/StorageServiceProvider.php",
+		"/var/www/fatboy/public/packages/homepage/css/home.css",
+		"/var/www/fatboy/public/packages/signup/css/signup-modal.css",
+		"/var/www/fatboy/public/js/signup-modal-invoker.js",
+		"/var/www/fatboy/app/views/signup/signup-modal.blade.php",
+		"/var/www/fatboy/app/views/home/index.blade.php",
+		"/var/www/fatboy/public/packages/signup/css/sign-up.css",
+		"/var/www/fatboy/ui/homepage/index.php",
+		"/var/www/fatboy/app/views/kitchen/public-head.blade.php",
+		"/var/www/fatboy/public/kitchen/css/kitchen.css",
+		"/var/www/fatboy/ui/kitchen/index.php",
+		"/var/www/fatboy/public/kitchen/index.php~",
+		"/var/www/fatboy/app/views/kitchen/public.php",
+		"/var/www/fatboy/app/controllers/IndexController.php",
+		"/var/www/fatboy/app/controllers/IndexController.php~",
+		"/var/www/fatboy/app/controllers/BaseController.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/fatboy/public"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hasSessionStore",
+			"index.php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/teamzuura"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
