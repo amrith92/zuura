@@ -56,7 +56,12 @@
   text-align: center;
 }
 
-.year h1 {
+.year button, h4.modal-title {
+  display: block;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  margin: 0.3em auto 0;
   color: #FFEA00;
   text-shadow: 1px 2px rgba(10, 10, 10, 0.6);
   font-family: 'Year Font', sans-serif;
@@ -65,8 +70,12 @@
   cursor: pointer;
 }
 
-.year h1:hover {
-  color: ;
+.year button:hover {
+  color: #FFC400;
+}
+
+h4.modal-title {
+  text-align: center;
 }
 
 .common {
@@ -86,4 +95,31 @@
   -webkit-box-shadow: inset 0 0 16px rgba(0, 0, 0, 0.7);
   -moz-box-shadow: inset 0 0 16px rgba(0, 0, 0, 0.7);
   box-shadow: inset 0 0 16px rgba(0, 0, 0, 0.7);
+}
+
+.modal .modal-content {
+  background: transparent url("../img/modal-bg.jpg") repeat;
+  color: #ddd;
+  border: solid 6px rgba(50, 50, 50, 0.5);
+}
+
+.modal-content .modal-header {
+  border-color: #010101;
+  border-width: 3px;
+}
+
+.modal-content img {
+  margin: 0 auto;
+  display: block;
+}
+
+.awesome-caption {
+  background: rgba(10, 10, 10, 0.6);
+  border: solid 3px rgba(60, 60, 60, 0.45);
+  color: #FFC400;
+  text-align: center;
+  text-shadow: 1px 2px 3px #000;
+  font-style: italic;
+  font-size: 1.85em;
+  border-radius: 3px;
 }

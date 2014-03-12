@@ -46,3 +46,7 @@ body {
   -moz-border-radius: 3px !important;
   border-radius: 3px !important;
 }
+
+.navbar-brand {
+  padding: 8px 15px 0px !important;
+}

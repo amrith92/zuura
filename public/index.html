@@ -19,6 +19,37 @@
     <link href="css/carousel.css" rel="stylesheet" />
   </head>
   <body>
+    <div class="modal" id="info-2013" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">2013</h4>
+          </div>
+
+          <div class="modal-body">
+            <img class="img-responsive" src="img/2013.png" alt="2013">
+            <div class="awesome-caption">ZR-01</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal" id="info-2014" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">2014</h4>
+          </div>
+
+          <div class="modal-body">
+            <span class="text-muted">Dafaq is the car? :O</span>
+            <div class="awesome-caption">bwahahaha</div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div id="wrap">
 
@@ -34,14 +65,14 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Team Zuura</a>
+                <a class="navbar-brand" href="#"><img src="img/logo-masthead.png" alt="Team Zuura"></a>
               </div>
               <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                  <li class="active"><a href="#">Home</a></li>
+                  <li class="active"><a href="index.html">Home</a></li>
                   <li><a href="about.html">About</a></li>
-                  <li><a href="/sponsors.html">Sponsors</a></li>
-                  <li><a href="#contact">Contact</a></li>
+                  <li><a href="sponsors.html">Sponsors</a></li>
+                  <li><a href="contact.html">Contact</a></li>
                 </ul>
               </div>
             </div>
@@ -85,6 +116,15 @@
             </div>
           </div>
           <div class="item">
+            <img src="img/sponsors-bg.jpg" alt="First slide">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>Team Driver</h1>
+                <p>Codename: Japan Showdown</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
             <img src="img/four-slider.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption">
@@ -101,10 +141,10 @@
       <div class="common road">
         <div class="row">
           <div class="col-md-2 col-md-offset-4 year">
-            <h1>2013</h1>
+            <button data-toggle="modal" data-target="#info-2013">2013</button>
           </div>
           <div class="col-md-2 year">
-            <h1>2014</h1>
+            <button data-toggle="modal" data-target="#info-2014">2014</button>
           </div>
         </div>
       </div>

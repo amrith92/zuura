@@ -4,20 +4,48 @@
 		"selected_items":
 		[
 			[
+				"backg",
+				"background"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
 				"mar",
 				"margin"
 			],
 			[
-				"back",
-				"background-color"
-			],
-			[
 				"margi",
 				"margin-top"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"asser",
@@ -52,10 +80,6 @@
 				"offences"
 			],
 			[
-				"margin",
-				"margin-bottom"
-			],
-			[
 				"class",
 				"classList"
 			],
@@ -70,10 +94,6 @@
 			[
 				"text",
 				"text-align"
-			],
-			[
-				"backg",
-				"background-size"
 			],
 			[
 				"oau",
@@ -108,19 +128,18 @@
 	"buffers":
 	[
 		{
-			"file": "public/css/sponsors.css",
+			"file": "public/index.html",
 			"settings":
 			{
-				"buffer_size": 143,
-				"line_ending": "Unix",
-				"name": "@import 'common.css';"
+				"buffer_size": 6103,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/sponsors.php",
+			"file": "public/css/carousel.css",
 			"settings":
 			{
-				"buffer_size": 3797,
+				"buffer_size": 2500,
 				"line_ending": "Unix"
 			}
 		}
@@ -152,10 +171,17 @@
 	},
 	"file_history":
 	[
-		"/var/www/teamzuura/public/index.php",
-		"/var/www/teamzuura/public/sponsors.php",
-		"/var/www/teamzuura/public/css/carousel.css",
+		"/var/www/teamzuura/public/css/contact.css",
+		"/var/www/teamzuura/public/contact.html",
+		"/var/www/teamzuura/public/sponsors.html",
+		"/var/www/teamzuura/public/about.html",
+		"/var/www/teamzuura/public/index.html",
+		"/var/www/teamzuura/public/css/sponsors.css",
 		"/var/www/teamzuura/public/css/common.css",
+		"/var/www/teamzuura/public/css/about.css",
+		"/var/www/teamzuura/public/sponsors.php",
+		"/var/www/teamzuura/public/index.php",
+		"/var/www/teamzuura/public/css/carousel.css",
 		"/var/www/teamzuura/public/css/footer.css",
 		"/var/www/creepz/app/tests/CreepTest.php",
 		"/var/www/creepz/app/models/Creep.php",
@@ -272,28 +298,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "public/css/sponsors.css",
+					"file": "public/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 143,
+						"buffer_size": 6103,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								143,
-								143
+								376,
+								376
 							]
 						],
 						"settings":
 						{
-							"auto_name": "@import 'common.css';",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": 58.0,
+						"translation.y": 170.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -301,29 +329,29 @@
 				},
 				{
 					"buffer": 1,
-					"file": "public/sponsors.php",
+					"file": "public/css/carousel.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3797,
+						"buffer_size": 2500,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2420,
-								2420
+								2437,
+								2437
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 24.0,
-						"translation.y": 867.0,
+						"translation.x": 0.0,
+						"translation.y": 1619.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
