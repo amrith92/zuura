@@ -116,10 +116,10 @@ $currentPage = 'home';
 
 <div class="common road">
     <div class="row">
-        <div class="col-md-2 col-md-offset-4 year">
+        <div class="col-xs-2 col-xs-offset-1 col-md-2 col-md-offset-4 year">
             <button data-toggle="modal" data-target="#info-2013">2013</button>
         </div>
-        <div class="col-md-2 year">
+        <div class="col-xs-2 col-xs-offset-3 col-md-2 col-md-offset-0 year">
             <button data-toggle="modal" data-target="#info-2014">2014</button>
         </div>
     </div>
