@@ -33,7 +33,7 @@ $currentPage = 'home';
             </div>
 
             <div class="modal-body">
-                <img class="img-responsive" src="img/2014.png" alt="2014">
+                <img class="img-responsive" src="img/2014_compressed.png" alt="2014">
                 <div class="awesome-caption">ZR-O2</div>
             </div>
         </div>

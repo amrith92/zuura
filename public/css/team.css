@@ -1,17 +1,21 @@
 @import 'common.css';
 @import 'footer.css';
 
-#wrap {
+#tab-2013 {
 	background: #111 url('../img/four-slider.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+#tab-2014 {
+	background: #111 url('../img/team-2014.jpg') center center no-repeat;
 	background-size: cover;
 }
 
 h1, h2, h3 {
 	color: #fafafa;
-	text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
+	text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.8);
 }
 
 .list-group {
-	box-shadow: 0 0 4px rgba(10, 10, 10, 0.3);
-	border: none !important;
+    opacity: 0.9;
 }

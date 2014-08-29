@@ -27,6 +27,50 @@ $title = 'Sponsors';
         <!-- 2014 sponsors -->
         <div class="tab-pane fade in active" id="2014">
             <div class="row stop-gap">
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/logos/amdesigns.png" alt="A.M. Designs Ltd.">
+                        <div class="caption">
+                            <div class="ribbon">
+                                Premier Sponsor
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/logos/jktyre.jpg" alt="JK Tyres">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/logos/sidhant.jpg" alt="Sidhant Metals">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/logos/virat.jpg" alt="Virat Aluminium">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/logos/obp.jpg" alt="OBP">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/logos/magod.jpg" alt="Magod Laser">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-4">
+                    <div class="thumbnail">
+                        <img src= "img/logos/solidworks.png" alt="SolidWorks">
+                    </div>
+                </div>
             </div>
         </div>
 
