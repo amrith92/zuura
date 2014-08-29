@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
 				"backg",
 				"background"
 			],
@@ -34,10 +50,6 @@
 			[
 				"margin",
 				"margin-top"
-			],
-			[
-				"back",
-				"background-size"
 			],
 			[
 				"mar",
@@ -128,18 +140,18 @@
 	"buffers":
 	[
 		{
-			"file": "public/index.html",
+			"file": "public/css/team.css",
 			"settings":
 			{
-				"buffer_size": 6103,
+				"buffer_size": 318,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/css/carousel.css",
+			"file": "public/index.html",
 			"settings":
 			{
-				"buffer_size": 2500,
+				"buffer_size": 7929,
 				"line_ending": "Unix"
 			}
 		}
@@ -171,17 +183,20 @@
 	},
 	"file_history":
 	[
-		"/var/www/teamzuura/public/css/contact.css",
-		"/var/www/teamzuura/public/contact.html",
-		"/var/www/teamzuura/public/sponsors.html",
-		"/var/www/teamzuura/public/about.html",
+		"/var/www/teamzuura/public/team.html",
 		"/var/www/teamzuura/public/index.html",
+		"/var/www/teamzuura/public/css/carousel.css",
+		"/var/www/teamzuura/public/js/countdown.js",
+		"/var/www/teamzuura/public/css/team.css",
+		"/var/www/teamzuura/public/about.html",
+		"/var/www/teamzuura/public/sponsors.html",
+		"/var/www/teamzuura/public/contact.html",
+		"/var/www/teamzuura/public/css/contact.css",
 		"/var/www/teamzuura/public/css/sponsors.css",
 		"/var/www/teamzuura/public/css/common.css",
 		"/var/www/teamzuura/public/css/about.css",
 		"/var/www/teamzuura/public/sponsors.php",
 		"/var/www/teamzuura/public/index.php",
-		"/var/www/teamzuura/public/css/carousel.css",
 		"/var/www/teamzuura/public/css/footer.css",
 		"/var/www/creepz/app/tests/CreepTest.php",
 		"/var/www/creepz/app/models/Creep.php",
@@ -298,30 +313,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "public/index.html",
+					"file": "public/css/team.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6103,
+						"buffer_size": 318,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								376,
-								376
+								244,
+								244
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": false
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
-						"translation.x": 58.0,
-						"translation.y": 170.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -329,29 +341,29 @@
 				},
 				{
 					"buffer": 1,
-					"file": "public/css/carousel.css",
+					"file": "public/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2500,
+						"buffer_size": 7929,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2437,
-								2437
+								7814,
+								7814
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1619.0,
+						"translation.y": 4284.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -416,7 +428,7 @@
 		[
 			[
 				"",
-				"~/Documents/infySCAN/infyscan.sublime-project"
+				"~/Documents/Flocc/flocc.sublime-project"
 			]
 		],
 		"width": 380.0

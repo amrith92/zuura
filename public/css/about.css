@@ -1,26 +1,6 @@
 @import 'common.css';
 @import 'footer.css';
 
-#wrap {
-	background: #111 url('../img/about-bg.jpg') center center no-repeat;
-	background-size: cover;
-}
-
-.about h1 {
-	color: #111;
-	font-weight: 700;
-}
-
 span.highlight {
-	color: #ff0000;
-}
-
-.panel {
-	box-shadow: 0 0 4px rgba(10, 10, 10, 0.3);
-	border: none !important;
-}
-
-.teampanel .panel-heading:nth-child(2)
-{
-	padding-top: 0 !important;
+    font-weight: bolder;
 }

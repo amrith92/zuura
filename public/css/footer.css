@@ -1,26 +1,16 @@
-.sponsors {
-  background: #222;
-  border-top: solid 1px #111;
+.footer {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background: #222;
+    border-top: solid 1px #141414;
+    padding-top: 6px;
 }
 
-.sponsors img {
-  padding: 6px 0;
-  margin-left: 8px;
-}
-
-.sponsors img:first-child {
-  margin-left: 0px;
-}
-
-.sponsor-logos {
-  margin: 0 auto;
-}
-
-#footer {
-}
-
-@media only screen and (min-width: 768px) {
-  #footer {
-    height: 60px;
-  }
+@media screen and (min-width: 768px) {
+    .footer {
+        position: absolute;
+        bottom: 0;
+        height: 60px;
+    }
 }

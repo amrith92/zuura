@@ -1,24 +1,13 @@
 @import 'common.css';
 @import 'footer.css';
 
-#wrap {
+body {
 	background: #111 url('../img/contact-bg.jpg') center center no-repeat;
 	background-size: cover;
 }
 
-h1 {
-	color: #fff;
-	font-weight: 700;
-	text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.6);
-}
-
-span.highlight {
-	color: #ff0000;
-}
-
 .panel {
-	box-shadow: 0 0 4px rgba(10, 10, 10, 0.3);
-	border: none !important;
+    opacity: 0.9;
 }
 
 .email {
