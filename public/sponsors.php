@@ -89,7 +89,7 @@ $title = 'Sponsors';
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
-                        <img src= "img/logos/bhel.png" alt="BHEL">
+                        <img src= "img/logos/bhel.png" alt="Crossland Health Services">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4">
