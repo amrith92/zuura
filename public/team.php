@@ -169,7 +169,7 @@ $title = 'The Team';
                         <div class="list-group-item">
                             <h4 class="list-group-item-heading">Team Manager</h4>
                             <div class="list-group-item-text">
-                                Darsh Shah
+                                Varun Moorthy
                             </div>
                         </div>
 

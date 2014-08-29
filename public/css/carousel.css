@@ -69,6 +69,25 @@
     width: 100%;
 }
 
+.bottom-gap {
+    margin-bottom: 20px;
+}
+
+/** FACEBOOK LIKE **/
+.pluginBoxDivider, ._4-u2 {
+    border-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+/** FACEBOOK WIDGETS **/
+#fb-root {
+    display: none;
+}
+ 
+/* To fill the container and nothing else */
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
+
 
 .year {
     text-align: center;

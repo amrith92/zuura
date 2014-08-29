@@ -8,6 +8,15 @@ $currentPage = 'home';
 
 ?>
 <?php require_once('header.php'); ?>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_IN/sdk.js#xfbml=1&appId=1535497873336021&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div class="modal" id="info-2013" tabindex="-1" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -131,6 +140,20 @@ $currentPage = 'home';
             <div class="wrapper">
                 <div class="cell">
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <hr>
+    <div class="row">
+        <div class="col-sm-8">
+            <div class="fb-like-box" data-href="https://www.facebook.com/TeamZuura" data-width="700px" data-colorscheme="dark" data-show-faces="false" data-header="false" data-stream="true" data-show-border="false"></div>
+        </div>
+        <div class="col-sm-4">
+            <div class="bottom-gap">
+                <div class="fb-facepile" data-href="https://www.facebook.com/TeamZuura" data-max-rows="10" data-colorscheme="dark" data-size="medium" data-show-count="true"></div>
             </div>
         </div>
     </div>
