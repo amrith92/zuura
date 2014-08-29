@@ -62,6 +62,7 @@ $currentPage = 'home';
         <li data-target="#myCarousel" data-slide-to="3"></li>
         <li data-target="#myCarousel" data-slide-to="4"></li>
         <li data-target="#myCarousel" data-slide-to="5"></li>
+        <li data-target="#myCarousel" data-slide-to="6"></li>
     </ol>
     <div class="carousel-inner">
         <div class="item active">
@@ -70,6 +71,15 @@ $currentPage = 'home';
                 <div class="carousel-caption">
                     <h1>2014 ZR-02</h1>
                     <p>All Set!</p>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/sixth-slider.jpg" alt="2014 ZR-02">
+            <div class="container">
+                <div class="carousel-caption">
+                    <h1>2014 ZR-02</h1>
+                    <p>Late Evening Photo Shoot</p>
                 </div>
             </div>
         </div>
