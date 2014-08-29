@@ -2,13 +2,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <img src="img/amarprakash.png" alt="Amar Prakash" />
-                <img src="img/quaife.png" alt="Quaife" />
-                <img src="img/obp.png" alt="OBP" />
-                <img src="img/wilwood.png" alt="Wilwood" />
-                <img src="img/solidworks.png" alt="SolidWorks" />
-                <img src="img/mak.png" alt="MAK Lubricants" />
-                <img src="img/knorr.png" alt="Knorr Bremse" />
+                <img src="img/amdesigns.png" alt="A.M Designs Ltd">
+                <img src="img/jktyre.png" alt="JK Tyre">
+                <img src="img/sidhant.png" alt="Sidhant Metals">
+                <img src="img/virat.png" alt="Virat Aluminium">
+                <img src="img/obp.png" alt="OBP">
+                <img src="img/magod.png" alt="Magod Laser">
+                <img src="img/solidworks.png" alt="SolidWorks">
             </div>
         </div>
     </div>
