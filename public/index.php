@@ -66,7 +66,7 @@ $currentPage = 'home';
     </ol>
     <div class="carousel-inner">
         <div class="item active">
-            <img src="img/five-slider.jpg" alt="2014 ZR-02">
+            <img src="img/five-slider.jpg" alt="2014 ZR-02" title="2014 ZR-02">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>2014 ZR-02</h1>
@@ -75,7 +75,7 @@ $currentPage = 'home';
             </div>
         </div>
         <div class="item">
-            <img src="img/sixth-slider.jpg" alt="2014 ZR-02">
+            <img src="img/sixth-slider.jpg" alt="2014 ZR-02" title="2014 ZR-02">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>2014 ZR-02</h1>
@@ -84,7 +84,7 @@ $currentPage = 'home';
             </div>
         </div>
         <div class="item">
-            <img src="img/first-slider.jpg" alt="2013 ZR-01">
+            <img src="img/first-slider.jpg" alt="2013 ZR-01" title="2013 ZR-01">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>2013 ZR-01</h1>
@@ -93,7 +93,7 @@ $currentPage = 'home';
             </div>
         </div>
         <div class="item">
-            <img src="img/second-slider.jpg" alt="First slide">
+            <img src="img/second-slider.jpg" alt="Group Photo Japan 2013" title="Group Photo Japan 2013">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>Group Photo</h1>
@@ -102,7 +102,7 @@ $currentPage = 'home';
             </div>
         </div>
         <div class="item">
-            <img src="img/third-slider.jpg" alt="First slide">
+            <img src="img/third-slider.jpg" alt="Team Driver 2013" title="Team Driver 2013">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>Team Driver</h1>
@@ -111,7 +111,7 @@ $currentPage = 'home';
             </div>
         </div>
         <div class="item">
-            <img src="img/sponsors-bg.jpg" alt="First slide">
+            <img src="img/sponsors-bg.jpg" alt="Pre-Flight checks in Japan 2013" title="Pre-Flight checks in Japan 2013">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>Team Driver</h1>
@@ -120,7 +120,7 @@ $currentPage = 'home';
             </div>
         </div>
         <div class="item">
-            <img src="img/four-slider.jpg" alt="First slide">
+            <img src="img/four-slider.jpg" alt="Team of 2013" title="Team of 2013">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>Team of 2013</h1>
