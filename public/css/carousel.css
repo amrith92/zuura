@@ -98,12 +98,12 @@
     border: 0;
     padding: 0;
     background: transparent;
-    margin: 0.3em auto 0;
+    margin: 8px auto 0;
     color: #FFEA00;
     text-shadow: 1px 2px rgba(10, 10, 10, 0.6);
     font-family: 'Year Font', sans-serif;
     font-size: 4em;
-    line-height: 0.65em;
+    line-height: 1em;
     cursor: pointer;
 }
 
