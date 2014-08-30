@@ -5,10 +5,12 @@
         <title><?php if (isset($title)) echo $title . ' &middot; '; ?>Team Zuura <?php echo date('Y'); ?></title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16">
+        <link rel="icon" href="/img/favicon.png">
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+        <?php require_once('meta.php'); ?>
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
